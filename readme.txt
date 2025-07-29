@@ -48,6 +48,6 @@ numpy
 
 ### 4. Run the movierecommendationsystem.py to generate the similarity.json file
 ### 6. Screenshot
-![image alt]()
+![image alt](Screenshot (63).png)
 
 
