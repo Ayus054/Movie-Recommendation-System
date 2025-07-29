@@ -48,7 +48,7 @@ numpy
 
 ### 4. Run the movierecommendationsystem.py to generate the similarity.json file
 ### 6. Screenshot
-![Screenshot](https://raw.githubusercontent.com/Ayus054/Movie-Recommendation-System/main/Screenshot%20(63).png)
+![image alt](https://github.com/Ayus054/Movie-Recommendation-System/blob/0e8c6aa27e6d584bb5144ea8c499e0d3f779967a/Screenshot%20(63).png)
 
 
 
