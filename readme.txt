@@ -30,8 +30,8 @@ A full-stack Movie Recommendation Web App that suggests 5 similar movies when a 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender-app.git
-cd movie-recommender-app
+git clone https://github.com/Ayus054/Movie-Recommendation-System.git
+cd Movie-Recommendation-System
 
 ### 2. Install Node dependencies
 ```bash
@@ -47,4 +47,6 @@ scikit-learn
 numpy
 
 ### 4. Run the movierecommendationsystem.py to generate the similarity.json file
+### 6. Screenshots
+
 
